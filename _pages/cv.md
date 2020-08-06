@@ -13,7 +13,7 @@ Education
 ======
 * A.A.S. Industrial Chemistry Technology, Ferris State University, 2020
 * B.S. Biology, Ferris State University, 2020
-* Pharm. D., University of Colorado, 2024
+* Pharm. D., University of Colorado, 2024 (expected)
 
 Work experience
 ======
