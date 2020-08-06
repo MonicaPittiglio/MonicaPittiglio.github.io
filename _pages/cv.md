@@ -37,5 +37,5 @@ Skills
 Service and leadership
 ======
 * 2019: Students for Sensible Drug Policy received a “Change Beyond Campus” award and became a Five-Star Organization at Ferris State University during my presidency.
-* 2018: 110 hours of community service
+* 2018: 110 hours of community service.
 * 2015 - 2017: Biweekly volunteer pharmacy technician at Ferris State University's on-site Pharmacy Care Clinic.
