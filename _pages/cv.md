@@ -31,8 +31,8 @@ Work experience
   
 Skills
 ======
-* 2020: Certified data analyst with R
-* 2015: Certified Microsoft Office specialist in Word, Excel, and Powerpoint
+* 2020: Certified data analyst with R.
+* 2015: Certified Microsoft Office specialist in Word, Excel, and Powerpoint.
   
 Service and leadership
 ======
