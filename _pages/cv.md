@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,49 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* A.A.S. Industrial Chemistry Technology, Ferris State University, 2020
+* B.S. Biology, Ferris State University, 2020
+* Pharm. D., University of Colorado, 2024
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017 – present: Ramp Agent
+  * Delta Air Lines
+  * Duties included: Well-versed in a variety of below-wing jobs. Filled airplanes with water and serviced the lavatories, loaded bags onto airplanes, sorted bags in the bag room, and ran bags from bag room to planeside. Assisted with airplanes not assigned to me when possible.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018 – 2019: Research Assistant
+  * Ferris State University
+  * Duties included: Worked with a team to develop the most efficient synthesis of a complex molecule that’s shown promise in treating Alzheimer’s disease. Teamwork, problem solving skills, and a comprehensive understanding of lab equipment was essential.
+  
+* 2015 – 2017: Research Assistant
+  * Ferris State University
+  * Duties included: Worked with fruit flies in a genetics lab to help determine whether certain foods led to mutated offspring. Fed, sacrificed, and transferred fruit flies between vials when necessary. Kept meticulous records of specimen counts and mutations.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2020: Certified data analyst with R
+* 2015: Certified Microsoft Office specialist in Word, Excel, and Powerpoint
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2019: Students for Sensible Drug Policy received a “Change Beyond Campus” award and became a Five-Star Organization at Ferris State University during my presidency.
+* 2018: 110 hours of community service
