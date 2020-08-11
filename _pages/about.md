@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-View my final reasearch project at https://monicapittiglio.github.io/COVID-19/
+[View my final reasearch project at] (https://monicapittiglio.github.io/COVID-19/)
 
 My name is Monica Pittiglio, and I am a professional pharmacy student at the Universtiy of Colorado's Skaggs School of Pharmacy and Pharmaceutical Sciences. I plan to use my degree to become a research scientist specializing in drug research and development. I have a bit of experinece already after working as a research assistant for two different professors at Ferris State University. I am also heavily involved in drug policy activism, and hope to use my professional voice to fight for price decreases for some medications.
 
